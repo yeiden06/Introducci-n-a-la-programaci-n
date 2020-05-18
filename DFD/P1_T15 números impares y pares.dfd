@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+86
+"Este programa fue creado por Juan David Neira: determina si el número es par o impar"
+4
+1
+19
+"Ingrese el número"
+5
+1
+3
+num
+6
+1
+7
+residuo
+9
+num mod 2
+7
+0
+1
+9
+Residuo=0
+4
+1
+27
+"El número",num, "es impar"
+13
+4
+1
+25
+"El número", num,"es par"
+13
+1

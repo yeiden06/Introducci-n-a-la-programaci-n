@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+121
+"Este programa fue creado por Juan David Neira y sirve para determinar cuales número son impares desde el 11 hasta el 99"
+8
+1
+1
+i
+1
+2
+11
+1
+2
+99
+1
+1
+2
+6
+1
+7
+residuo
+7
+i mod 2
+7
+0
+1
+9
+residuo=1
+13
+4
+1
+29
+"Los números impares son:", i
+13
+10
+1

@@ -1,0 +1,134 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+89
+"Este programa fue creado por Juan David Neira y simula las funciones de una calculadora"
+6
+1
+6
+option
+1
+9
+9
+1
+9
+option!=0
+4
+1
+60
+"Write 1 for add 2 for substrac 3 for multiply 4 for divide"
+5
+1
+6
+option
+7
+0
+1
+8
+option=1
+7
+0
+1
+8
+option=2
+7
+0
+1
+8
+option=3
+7
+0
+1
+8
+option=4
+4
+1
+7
+"ERROR"
+13
+4
+1
+46
+"Input the first number and the second number"
+5
+1
+16
+number1, number2
+6
+1
+6
+result
+15
+number1/number2
+4
+1
+6
+result
+13
+13
+4
+1
+46
+"Input the first number and the second number"
+5
+1
+16
+number1, number2
+6
+1
+6
+result
+15
+number1*number2
+4
+1
+6
+result
+13
+13
+4
+1
+46
+"Input the first number and the second number"
+5
+1
+16
+number1, number2
+6
+1
+6
+result
+17
+number1 - number2
+4
+1
+6
+result
+13
+13
+4
+1
+46
+"Input the first number and the second number"
+5
+1
+16
+number1, number2
+6
+1
+6
+result
+17
+number1 + number2
+4
+1
+6
+result
+13
+11
+1

@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+140
+"Este programa fue creado por Juan David Neira y determina cuántos pasajeros fueron transportados cuanto dinero se obtuvo y la ruta del bús"
+5
+1
+10
+Npasajeros
+4
+1
+32
+"Ingrese el número de pasajeros"
+5
+1
+8
+Nparadas
+4
+1
+30
+"Ingrese el número de paradas"
+6
+1
+15
+total_pasajeros
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+8
+Nparadas
+1
+1
+1
+4
+1
+31
+"El número de pasajeros es:", i
+5
+1
+9
+pasajeros
+6
+1
+15
+total_pasajeros
+25
+total_pasajeros+pasajeros
+10
+6
+1
+12
+total_dinero
+19
+total_pasajeros*150
+4
+1
+50
+"El total de dinero recogido es de:", total_dinero
+1

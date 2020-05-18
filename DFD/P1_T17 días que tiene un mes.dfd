@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+93
+"Este programa fue creado por Juan David Neira: determina el número de días que tiene un mes"
+4
+1
+34
+"Digite el número del mes deseado"
+5
+1
+3
+mes
+7
+0
+1
+15
+mes<0 or mes>12
+7
+0
+1
+68
+mes= 1 or mes= 3 or mes= 5 or mes= 7 or mes= 8 or mes= 10 or mes= 12
+7
+0
+1
+37
+mes= 4 or mes= 6 or mes= 9 or mes= 11
+4
+1
+37
+"Este mes tiene 28/29 días (febrero)"
+13
+4
+1
+24
+"Este mes tiene 30 días"
+13
+13
+4
+1
+24
+"Este mes tiene 31 días"
+13
+13
+4
+1
+31
+"ERROR verifique su calendario"
+13
+1

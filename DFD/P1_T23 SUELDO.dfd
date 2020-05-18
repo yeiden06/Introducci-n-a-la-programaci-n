@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+184
+"Este programa fue creado por Juan David Neira y sirve para calcular el salario promedio el salario total y el salario mas alto de un empleado inserte el salario del primer trabajador"
+5
+1
+1
+N
+6
+3
+14
+average_salary
+1
+0
+12
+total_salary
+1
+0
+14
+highest_salary
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+67
+"Ingrese el sueldo y los días trabajados para el empleado número 1"
+5
+1
+13
+sueldo, díast
+6
+2
+6
+salary
+17
+(sueldo/30)*díast
+12
+total_salary
+21
+total_salary + salary
+7
+0
+1
+23
+salary > highest_salary
+13
+6
+1
+14
+highest_salary
+6
+salary
+13
+10
+6
+1
+14
+average_salary
+14
+total_salary/N
+4
+1
+131
+"El total de sueldos es:", total_salary, "el promedio de salarios es:", average_salary, "y el salario más alto es:", highest_salary
+1

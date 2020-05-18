@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+116
+"Este programa fue creado por Juan David Neira sirve para calcular el valor bruto y el valor total de sus productos"
+5
+1
+1
+N
+6
+3
+10
+valorbruto
+1
+0
+3
+IVA
+1
+0
+10
+valortotal
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+43
+"Ingrese el valor del producto numero ", i 
+5
+1
+13
+valorproducto
+6
+1
+10
+valorbruto
+27
+ valorbruto + valorproducto
+10
+6
+2
+3
+IVA
+16
+ valorbruto*0.19
+10
+valortotal
+17
+ valorbruto + IVA
+4
+1
+134
+"El valor bruto de su compra es:",valorbruto,"
+El total del IVA del producto es:",IVA, "
+El valor total del producto es:",valortotal
+1

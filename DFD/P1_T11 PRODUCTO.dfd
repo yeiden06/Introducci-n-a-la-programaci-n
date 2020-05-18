@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+"Este programa determina el iva de los productos"
+4
+1
+32
+"Ingrese el valor del producto1"
+5
+1
+2
+p1
+4
+1
+32
+"Ingrese el valor del producto2"
+5
+1
+2
+p2
+4
+1
+32
+"Ingrese el valor del producto3"
+5
+1
+2
+p3
+4
+1
+32
+"Ingrese el valor del producto4"
+5
+1
+2
+p4
+6
+3
+10
+totalbruto
+11
+p1+p2+p3+p4
+3
+IVA
+15
+totalbruto*0.19
+5
+total
+14
+totalbruto+IVA
+4
+1
+80
+"La factura es", "total bruto", totalbruto, "valor del IVA", IVA, "total", total
+1

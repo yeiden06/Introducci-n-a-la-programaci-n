@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+155
+"Este programa fue creado por Juan David Neira y sirve para calcular el promedio de notas finales de notas del estudiante ingrese el numero de estudiantes"
+5
+1
+1
+N
+6
+2
+4
+suma
+1
+0
+8
+promedio
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+48
+"Ingrese la nota 1 2  y 3 para el estudiante", i
+5
+1
+10
+N1, N2, N3
+6
+2
+5
+total
+25
+ N1*0.2 + N2*0.3 + N3*0.5
+4
+suma
+13
+ suma + total
+10
+6
+1
+8
+promedio
+6
+suma/N
+4
+1
+50
+"El promedio de notas del estudiante es", promedio
+1

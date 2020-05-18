@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+92
+"Este aplicación fue creado por Juan David Neira: permite calcular el valor de tres números"
+4
+1
+18
+"Ingrese el valor"
+5
+1
+7
+A, B, C
+7
+0
+1
+11
+A=B and A=C
+7
+0
+1
+11
+A>B and A>C
+7
+0
+1
+11
+B>A and B>C
+4
+1
+16
+"El mayor es", C
+13
+4
+1
+16
+"El mayor es", B
+13
+13
+4
+1
+16
+"El mayor es", A
+13
+13
+4
+1
+13
+"Son iguales"
+13
+1

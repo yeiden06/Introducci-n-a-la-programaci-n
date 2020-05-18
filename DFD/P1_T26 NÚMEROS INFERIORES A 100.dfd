@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+73
+"Este programa suma y promedia números mayores que 100 ingrese un número"
+5
+1
+3
+num
+6
+3
+5
+total
+2
+ 0
+7
+average
+2
+ 0
+8
+contador
+2
+ 0
+9
+1
+10
+num >= 100
+6
+2
+5
+total
+12
+ total + num
+8
+contador
+13
+ contador + 1
+4
+1
+29
+"Ingrese el siguiente número"
+5
+1
+3
+num
+11
+6
+1
+7
+average
+15
+ total/contador
+4
+1
+90
+"El total es:", total,"y el promedio es:", average,"la cantidad de números fue:", contador
+1

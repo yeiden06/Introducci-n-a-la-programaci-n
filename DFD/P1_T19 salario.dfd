@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+84
+"Este programa fue creado por Juan David Neira: determina el salario de un empleado"
+4
+1
+42
+"Ingrese el valor del sueldo del empleado"
+5
+1
+6
+sueldo
+4
+1
+39
+"Ingrese el número de días que trabajo"
+5
+1
+4
+días
+7
+0
+1
+29
+sueldo<0 or días<0 or días>30
+6
+1
+7
+salario
+16
+(sueldo/30)*días
+4
+1
+50
+"El salario del empleado en un mes es de", salario
+13
+4
+1
+85
+"ERROR: el sueldo no puede ser inferior a 0 y los días tienen que estar entre 1 y 30"
+13
+1

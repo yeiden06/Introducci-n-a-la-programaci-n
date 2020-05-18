@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+137
+"Este progroma fue creado por Juan David Neira y sirve para sumar la cantitdad de números que desee y hacer el promedio de estos números"
+6
+2
+4
+suma
+1
+0
+8
+promedio
+1
+0
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+0
+1
+1
+N
+1
+1
+1
+4
+1
+32
+"Ingrese el valor del número", i
+5
+1
+6
+número
+6
+1
+4
+suma
+14
+ suma + número
+10
+6
+1
+8
+promedio
+6
+suma/N
+4
+1
+18
+"La suma es", suma
+4
+1
+24
+"El promedio es", suma/N
+1
