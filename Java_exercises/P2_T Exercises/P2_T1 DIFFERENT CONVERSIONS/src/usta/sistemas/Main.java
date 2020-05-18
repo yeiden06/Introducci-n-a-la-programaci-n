@@ -18,9 +18,9 @@ public class Main {
 	public static void f_menu() {
 		//DESCRIPTION: This method show the menu of this software
 		System.out.println("----------------------");
-		System.out.println("|     SoftConvert    |");
-		System.out.println("|Version 1.0 20200413|");
-		System.out.println("|Created by:Sebastian|");
+		System.out.println("|     SoftConvert     |");
+		System.out.println("|Version 1.0 20200413 |");
+		System.out.println("|Created by:juan david|");
 		System.out.println("----------------------");
 		System.out.println("Input the options of grades:\n1-celsius \n2-farenheit \n3-kelvin ");
 	}
