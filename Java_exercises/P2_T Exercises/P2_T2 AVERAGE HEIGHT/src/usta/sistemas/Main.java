@@ -13,11 +13,11 @@ public class Main {
         f_average(summatory);
     }
     public static void f_menu(){
-        System.out.println("...................");
-        System.out.println(".SoftAverageHeight.");
-        System.out.println(".   Version 1.0   .");
-        System.out.println(".Created by: Sebas.");
-        System.out.println("...................");
+        System.out.println("........................");
+        System.out.println(".SoftAverageHeight     .");
+        System.out.println(".   Version 1.0        .");
+        System.out.println(".Created by: juan david.");
+        System.out.println("........................");
     }
     public static double f_sum_height(){
         //DESCRIPTION: This method calculate the sumatory of 5 height
