@@ -26,11 +26,11 @@ public class Main {
         }
     }
     public static void f_menu(){
-        System.out.println("...................");
-        System.out.println(".SoftAreaFigures  .");
-        System.out.println(".   Version 1.0   .");
-        System.out.println(".Created by: Sebas.");
-        System.out.println("...................");
+        System.out.println("........................");
+        System.out.println(".SoftAreaFigures       .");
+        System.out.println(".   Version 1.0        .");
+        System.out.println(".Created by: juan david.");
+        System.out.println("........................");
         System.out.println("Input the option of the figure: \n1-circle\n2-square\n3-triangle");
 
     }
