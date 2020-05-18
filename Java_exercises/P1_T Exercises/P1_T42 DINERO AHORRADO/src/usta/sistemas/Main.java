@@ -18,7 +18,7 @@ public class Main {
         System.out.println("..................");
         System.out.println(".  SoftSaveMoney .");
         System.out.println(".   Version:1.0  .");
-        System.out.println(". Maker:Sebastian.");
+        System.out.println(". Maker:Juan David.");
         System.out.println("..................");
     }
     public static void f_saved_money (int p_salary){
