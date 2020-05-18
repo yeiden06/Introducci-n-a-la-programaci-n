@@ -17,11 +17,11 @@ public class Main {
         System.out.println("The average of height is: "+average+"mts");
     }
     public static void f_menu() {
-        System.out.println(".......................");
-        System.out.println(".  SoftAverageHeight  .");
-        System.out.println(".   V1.0 20/04/2020   .");
-        System.out.println(". Created by: SebasP  .");
-        System.out.println(".......................");
+        System.out.println("...........................");
+        System.out.println(".  SoftAverageHeight      .");
+        System.out.println(".   V1.0 20/04/2020       .");
+        System.out.println(". Created by: juan david  .");
+        System.out.println("...........................");
     }
     public static int f_total_children (){
         //DESCRIPTION: This method returns the total of children
