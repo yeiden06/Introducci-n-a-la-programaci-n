@@ -30,7 +30,7 @@ public class Main {
         System.out.println("...............................");
         System.out.println(".         shippingsoft        .");
         System.out.println(". Version 1.0 ..April.01.2020..");
-        System.out.println(".   Maker: Sebastián Pérez    .");
+        System.out.println(".   Maker: Juan David Neira   .");
         System.out.println("...............................");
     }
     public static int f_shipping_cost (int p_destine){
