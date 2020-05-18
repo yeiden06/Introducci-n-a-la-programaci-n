@@ -20,11 +20,11 @@ public class Main {
     }
 
     public static void f_menu() {
-        System.out.println(".......................");
-        System.out.println(". SoftConvertDistances.");
-        System.out.println(".   V1.0 16/04/2020   .");
-        System.out.println(". Created by: SebasP  .");
-        System.out.println(".......................");
+        System.out.println("...........................");
+        System.out.println(". SoftConvertDistances    .");
+        System.out.println(".   V1.0 16/04/2020       .");
+        System.out.println(". Created by: juan david  .");
+        System.out.println("...........................");
     }
 
     public static int f_option() {
